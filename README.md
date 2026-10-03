@@ -1,4 +1,4 @@
-# vinext-starter
+> **Historical / reference build.** This July psychology prototype is superseded for current development by [ON-TRACK-Psychological-Command-Centre](https://github.com/tracey727/ON-TRACK-Psychological-Command-Centre). Preserve this repository for provenance and recovery; do not use it as the current production/deployment source.\n\n# vinext-starter
 
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
